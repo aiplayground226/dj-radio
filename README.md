@@ -10,17 +10,17 @@ Product page: [https://www.aiplayground.spot/dj-radio](https://www.aiplayground.
 
 ## Download
 
-The current release is **[DJ Radio v2k](https://github.com/aiplayground226/dj-radio/releases/latest)**.
+The current release is **[DJ Radio v2l](https://github.com/aiplayground226/dj-radio/releases/latest)**.
 
 Stable direct download:
 
-https://github.com/aiplayground226/dj-radio/releases/latest/download/DJ-Radio-v2k.zip
+https://github.com/aiplayground226/dj-radio/releases/latest/download/DJ-Radio-v2l.zip
 
 The SHA-256 of that zip is listed in the release notes. Check it after you download if you want to confirm the file is intact.
 
 ## Install
 
-1. Download `DJ-Radio-v2k.zip` and unzip the `DJ Radio` folder anywhere (Desktop is fine).
+1. Download `DJ-Radio-v2l.zip` and unzip the `DJ Radio` folder anywhere (Desktop is fine).
 2. Double-click **Start DJ Radio.cmd**. A black window opens and your browser opens DJ Radio. **Leave this window open.**
 3. Choose **Start 12-hour free demo** (email only), **Subscribe $5/month**, or **I have a key** (paste the key shown after you pay).
 4. Follow the setup screens. The last one gives you the OBS link and the vote link.
